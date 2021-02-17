@@ -1250,6 +1250,7 @@ section {
 
 .team .member .member-info {
   padding: 25px 15px;
+  text-align: center;
 }
 
 .team .member .member-info h4 {
@@ -1257,6 +1258,7 @@ section {
   margin-bottom: 5px;
   font-size: 18px;
   color: #2a2c39;
+  
 }
 
 .team .member .member-info span {
@@ -1265,6 +1267,10 @@ section {
   font-weight: 600;
   color: #aaaaaa;
 }
+.team .member .member-info .desig{
+  color: #2a2c39;
+}
+
 
 .team .member .member-info p {
   font-style: italic;
