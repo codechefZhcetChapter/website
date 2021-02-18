@@ -348,6 +348,10 @@ h6 {
   padding: 0;
 }
 
+#our-belief {
+  font-size: 2vh;
+}
+
 #hero .carousel-container {
   display: flex;
   justify-content: center;
@@ -355,7 +359,7 @@ h6 {
   flex-direction: column;
   text-align: center;
   position: relative;
-  height: 80vh;
+  height: 95vh;
   padding-top: 60px;
 }
 
@@ -1258,7 +1262,6 @@ section {
   margin-bottom: 5px;
   font-size: 18px;
   color: #2a2c39;
-  
 }
 
 .team .member .member-info span {
@@ -1267,10 +1270,9 @@ section {
   font-weight: 600;
   color: #aaaaaa;
 }
-.team .member .member-info .desig{
+.team .member .member-info .desig {
   color: #2a2c39;
 }
-
 
 .team .member .member-info p {
   font-style: italic;
