@@ -399,19 +399,20 @@ h6 {
 
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
-  font-weight: 500;
-  font-size: 14px;
-  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1.5px;
   display: inline-block;
-  padding: 12px 32px;
+  padding: 12px 55px  ;
   border-radius: 50px;
   transition: 0.5s;
   line-height: 1;
-  margin: 10px;
+  margin: 20px;
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #ef6603;
+  border: 3px solid #ef6603;
+  
 }
 
 #hero .btn-get-started:hover {
