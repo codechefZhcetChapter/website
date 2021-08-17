@@ -12,7 +12,12 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
-
+.ytlink a:hover{
+  background-color: #fcb582 ;
+  display: inline-block;
+  transition: ease-in-out 0.3s;
+   
+}
 a {
   color: #ef6603;
 }
@@ -654,6 +659,12 @@ section {
   font-size: 18px;
   font-weight: 600;
   margin: 0;
+}
+
+.slideimg img{
+  height: 400px;
+  width: 400px;
+  margin:auto;
 }
 
 .features .nav-link:hover {
